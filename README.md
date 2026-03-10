@@ -1,5 +1,3 @@
-# data-anatytics-proyectos
-Portfolio of Data Analytics projects using Excel, SQL, Power BI and Tableau
 # Data Analytics Portfolio
 
 This repository contains a collection of data analytics projects developed using different tools and technologies such as Excel, Tableau, Power BI, and Python.
