@@ -4,6 +4,12 @@ Perform exploratory data analysis to understand patterns, distributions, and rel
 ## Dataset
 Dataset used for exploratory data analysis including multiple variables to identify patterns and relationships in the data.
 
+## Analysis Process
+
+- Loaded and explored the dataset using Python.
+- Cleaned and prepared the data for analysis.
+- Performed exploratory data analysis and created visualizations.
+  
 ## Key Insights
 
 - Data exploration helps identify trends and patterns.
